@@ -1,0 +1,6 @@
+*.stl
+*.gcode
+*.zip
+*.tar*
+
+*.FCStd[0-9]
